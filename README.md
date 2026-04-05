@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/yn9ShqMH/your-image.png" alt="banner" />
+  <img src="https://i.ibb.co.com/xSkHm6cx/Screenshot-2026-04-06-at-01-08-13.png" alt="banner" />
 </p>
 
 # Hey 👋 I'm Gung
